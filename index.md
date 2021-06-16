@@ -1,4 +1,4 @@
-## [Kim jestem](https://github.com/Sajdihere/Kim-jestem/blob/gh-pages/Index2.md)
+## [Kim jestem](https://sajdihere.github.io/Projekt/)
 
 
 
