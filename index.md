@@ -1,7 +1,6 @@
 ## [Kim jestem](https://github.com/Sajdihere/Kim-jestem/edit/gh-pages/index.md)
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## O mnie
 Mam na imię Bartek i jestem studentem 3 roku na Uniwersytecie Szczecińskim
